@@ -1,2 +1,2 @@
 # jogopong
-edição 0
+edição 00
